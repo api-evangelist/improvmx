@@ -23,10 +23,14 @@ apis:
       - type: Documentation
         url: https://improvmx.com/api
 common:
+  - type: DomainSecurity
+    url: security/improvmx-domain-security.yml
   - type: Website
     url: https://improvmx.com/api
   - type: PublicAPIsListing
     url: https://github.com/public-apis/public-apis
+  - url: https://improvmx.com/blog
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
