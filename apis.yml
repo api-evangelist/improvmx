@@ -39,7 +39,6 @@ apis:
   - name: ImprovMX
     description: "API for free email forwarding service"
     humanURL: https://improvmx.com/api
-    baseURL: https://improvmx.com/api
     tags:
       - Email
     properties:
